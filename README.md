@@ -11,8 +11,8 @@ Bu projede, taş, kağıt ve makas oyununu terminal üzerinden oynayabilirsiniz.
 Projenin çalışması için Python 3.x gereklidir. Kodu çalıştırmak için:
 
 1. Python'un yüklü olduğundan emin olun.
-2. `tas_kagit_makas_ADINIZ_SOYADINIZ.py` dosyasını indirin veya kopyalayın.
+2. `oyun.py` dosyasını indirin veya kopyalayın.
 3. Terminal veya komut istemcisinde dosyanın bulunduğu dizine gidin.
 4. Aşağıdaki komutu çalıştırın:
    ```bash
-   python tas_kagit_makas_ADINIZ_SOYADINIZ.py
+   python oyun.py
